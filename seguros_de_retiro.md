@@ -32,11 +32,20 @@ Si el asegurado sobrevive al período identificado, el comportamiento es como la
 
 ## Garantías y rendimientos excedentes
 
-Los rendimientos están garantizados por el sistema de la siguiente manera:
+Los rendimientos mensuales están garantizados por el sistema de la siguiente manera:
 
-1. Los fondos acumulados tienen una garantía de rendimiento del 4% anual (0,327374). Esto es garantizado por la Superintendencia de Seguros de la Nación.
+1. Los fondos acumulados tienen una garantía de rendimiento del 4% anual (0,327374). Esto es garantizado por la Superintendencia de Seguros de la Nación (tasa técnica).
 2. Los rendimientos de los seguros de retiro de Federación Patronal tienen el siguiente comportamiento:
-    a. Plazo fijo, tasa testigo, inflación, rentabilidad.
+    1. La mejor tasa entre la tasa técnica y la tasa de referencia.
+    2. Si el rendimiento de Federación Patronal fue superior a la tasa de referencia, se adiciona a esta el 85% de la diferencia entre ambos porcentajes.
+
+> Tasa de referencia: promedio de los rendimientos de las inversiones financieras que pasan por el Banco Central de la República Argentina.
+
+## Rescate e Indemnizaciones
+
+El rescate es un retiro anticipado del fondo acumulado.
+
+Si por cualquier razón se lo realiza antes de 4 año inclusive, se obtendrá el 92%. Del año 5 en adelante, el 95%. Si el rescate es total a la fecha de retiro, el 100%. De igual manera si es total al fallecimiento o invalidez total y permanente.
 
 
 
