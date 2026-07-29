@@ -47,5 +47,6 @@ El rescate es un retiro anticipado del fondo acumulado.
 
 Si por cualquier razón se lo realiza antes de 4 año inclusive, se obtendrá el 92%. Del año 5 en adelante, el 95%. Si el rescate es total a la fecha de retiro, el 100%. De igual manera si es total al fallecimiento o invalidez total y permanente.
 
+## Coberturas adicionales
 
-
+Un capital fijo por cobertura de vida y otro por invalidez total y permanente.
